@@ -1,3 +1,5 @@
 .venv
 .mpy_cache
 /docker/mongodb_data/*
+!/docker/mongodb_data/.gitkeep
+__pycache__/*
