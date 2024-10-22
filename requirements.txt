@@ -1,0 +1,8 @@
+beautifulsoup4==4.12.3
+bs4==0.0.2
+dnspython==2.7.0
+mongoengine==0.29.1
+pymongo==4.10.1
+soupsieve==2.6
+types-beautifulsoup4==4.12.0.20241020
+types-html5lib==1.1.11.20241018
